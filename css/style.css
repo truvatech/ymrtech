@@ -226,7 +226,7 @@ header ul.nav li ul li a {
 
 .navbar .nav a:hover {
 	background:none;
-	color: #C22731 !important;
+	color: #006DFA !important;
 }
 
 .navbar .nav > .active > a,.navbar .nav > .active > a:hover {
@@ -266,7 +266,7 @@ header ul.nav li ul li ul {
   content:none;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
-color: #C22731;  
+color: #006DFA;  
 }
 
 
@@ -308,7 +308,7 @@ border-radius:0;
 }
 .fancybox-title-inside-wrap {
     padding: 3px 30px 6px;
-    background: #C22731;
+    background: #006DFA;
 }
 
 .progress-bar { 
@@ -325,7 +325,7 @@ border-radius:0;
 	zoom: 1;
 }
 .slides li:nth-child(1){
-background:#c22731;
+background:#006DFA;
 }
 .slides li:nth-child(2){
 background:#175e8b;
@@ -555,7 +555,7 @@ color:#428bca
 ==================================== */
 
 #inner-headline{
-	background: #C22731;
+	background: #006DFA;
 	position:relative;
 	margin:0;
 	padding:0;
@@ -899,7 +899,7 @@ margin-bottom: 15px;
 }
 .info-blocks i.icon-info-blocks {
 float: left;
-color: #C22731;
+color: #006DFA;
 font-size: 35px;
 min-width: 50px;
 margin-top: 5px;
@@ -1205,7 +1205,7 @@ background: #F1F1F1;
 	display:block;
 }
 .pricing-box-item.activeItem .pricing-heading {
-	background: #C22731;
+	background: #006DFA;
 	text-align: center;
 	padding:0px 0 1px 0;
 	border-bottom:none;
@@ -1352,7 +1352,7 @@ padding-right: 15px;
 } 
 .post-meta-top .fa-calendar{
 font-size: 18px;
-color: #C22631;
+color: #006DFA;
 margin: 6px 10px 0 0;
 float: left;
 } 
@@ -1379,7 +1379,7 @@ footer{
 }
 
 footer a {
-	color: #C22631;
+	color: #006DFA;
 }
 
 footer a:hover {
