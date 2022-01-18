@@ -1,13 +1,16 @@
 /*
-Author URI: http://webthemez.com/
+Author URI: http://ymrtech.com/
 Note: 
 Licence under Creative Commons Attribution 3.0 
 Do not remove the back-link in this web template 
 -------------------------------------------------------*/
 
 @import url('http://fonts.googleapis.com/css?family=Noto+Serif:400,400italic,700|Open+Sans:400,600,700'); 
+@import url('https://fonts.googleapis.com/css2?family=Ultra&display=swap');
 @import url('font-awesome.css');  
 @import url('animate.css');
+
+
 
 body {
 	font-family:'Open Sans', Arial, sans-serif;
@@ -32,7 +35,19 @@ h1,h2, h3, h4, h5, h6 {
 	color:#333;
 	margin-bottom: 20px;
 }
- 
+
+h2,h3.centered {
+  text-align: center;
+}
+
+.logo {
+	font-family:'Ultra';
+	font-weight:700;
+	line-height:1.1em;
+	color:#333;
+	font-size: 32px;
+	}
+	
 .container {
 	padding:0 20px 0 20px;
 	position:relative;
