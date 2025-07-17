@@ -5,7 +5,8 @@
 
 - type: bluesky
   icon: "fa-brands fa-bluesky"
-  url: 'https://bsky.app/profile/ymrtech.bsky.social'
+  url:  'https://bsky.app/profile/ymrtech.bsky.social'
+
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
