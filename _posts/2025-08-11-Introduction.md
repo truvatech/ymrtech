@@ -1,3 +1,9 @@
+---
+title: Introuction to Me
+date: 2025-08-11 10:00:00
+categories: [personal]
+tags: [personal]     # TAG names should always be lowercase
+---
 Hello, thank you for visiting my site.
 
 Let me start by introducing myself. My name is Yannick M. Richard. Who I am is a different philosophical question entirely, but the one general theme that has been recurrent throughout my life is my passion for engineering and technology.
