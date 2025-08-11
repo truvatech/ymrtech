@@ -1,3 +1,9 @@
+---
+title: Intro to Linux
+date: 2025-08-11 10:10:10
+categories: [linux]
+tags: [linux]     # TAG names should always be lowercase
+---
 Linux, what's the deal?
 Well, although I am sure most of you are familiar with windows and MacOS, many of you might not realize that Android is based off linux.
 Not only android, but something like 96% of the world's top 1 million websites all run on linux..
