@@ -1,6 +1,6 @@
 ---
 title: My Services on Oracle Cloud Free Tier
-date: 2025-08-11 10:30:00
+date: 2025-08-11 10:10:00
 categories: [linux]
 tags: [linux]     # TAG names should always be lowercase
 ---

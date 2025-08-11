@@ -1,6 +1,6 @@
 ---
 title: Intro to Linux
-date: 2025-08-11 10:10:10
+date: 2025-08-11 10:50:00
 categories: [linux]
 tags: [linux]     # TAG names should always be lowercase
 ---
