@@ -1,3 +1,9 @@
+---
+title: My Services on Oracle Cloud Free Tier
+date: 2025-08-11 10:30:00
+categories: [linux]
+tags: [linux]     # TAG names should always be lowercase
+---
 Oracle cloud gives a pretty generous free tier. 4 vCPU, 24gb ram, and 200gb of block storage which can be broken down and used however you like.
 I chose to split this up into 3 instances:
 1-2 vCPU with 12gb of ram for my VPN
