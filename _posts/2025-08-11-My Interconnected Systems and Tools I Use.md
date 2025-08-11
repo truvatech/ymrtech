@@ -1,3 +1,9 @@
+---
+title: My Interconnected Systems and Tools I Use
+date: 2025-08-11 10:20:00
+categories: [linux]
+tags: [linux]     # TAG names should always be lowercase
+---
 I feel like the best way to show that I have a solid understanding of the technology running most of the mordern world's digital systems, I'd walk you through a bit of the tools I use, how it is all set up, and the way I use it to stay on top of things in the digital world.
 
 It is a bit of a web of interconnected systems, so let me start off simple.
