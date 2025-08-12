@@ -1,3 +1,6 @@
+/*
 Content-Security-Policy: default-src 'self'; script-src 'report-sample' 'self' https://static.cloudflareinsights.com/; style-src 'report-sample' 'self' https://cdn.jsdelivr.net https://fonts.googleapis.com; object-src 'none'; base-uri 'self'; connect-src 'self'; font-src 'self' https://cdn.jsdelivr.net https://fonts.gstatic.com; frame-src 'self'; img-src 'self'; manifest-src 'self'; media-src 'self'; worker-src 'none';
-X-Content-Type-Options: SAMEORIGIN
+/*
+X-Frame-Options: SAMEORIGIN
+/*
 Permissions-Policy: accelerometer=(), ambient-light-sensor=(), autoplay=(), battery=(), camera=(), cross-origin-isolated=(), display-capture=(), document-domain=(), encrypted-media=(), execution-while-not-rendered=(), execution-while-out-of-viewport=(), fullscreen=(), geolocation=(), gyroscope=(), keyboard-map=(), magnetometer=(), microphone=(), midi=(), navigation-override=(), payment=(), picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), sync-xhr=(), usb=(), web-share=(), xr-spatial-tracking=(), clipboard-read=(), clipboard-write=(), gamepad=(), speaker-selection=()
